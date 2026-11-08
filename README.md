@@ -415,3 +415,19 @@ Stop-Service -Name "GitHub Runner Service"
 
 **最后更新：** 2026-09-08  
 **文档版本：** 2.0（包含 MacBook Pro 支持信息）
+
+---
+
+## Lauren Tan 的演讲视频
+
+### 用 AI 智能体验证和交付代码
+
+2026 年 9 月 21 日，约 38 分钟。Lauren Tan（@poteto）分享了她如何让智能体运行应用、检查改动，并逐步把合并代码的工作交给它们。
+
+[英文原版（Lauren 的 X 帖子）](https://x.com/poteto/status/2102050467505430555) · [中文字幕版（1.5 倍速）](https://x.com/MaiYangAI/status/2102344659276099794) · [YouTube 英文版](https://www.youtube.com/watch?v=NjoZoUm85x0)
+
+### How Cursor Turned AI Agents Into Better Engineers
+
+2026 年 8 月 12 日，约 60 分钟。08:35 开始讲如何让智能体验证功能，16:20 开始介绍 pstack。
+
+[Maven 官方回放（英文）](https://maven.com/p/e23d9c/how-cursor-turned-ai-agents-into-better-engineers) · [哔哩哔哩中文配音版（AI 配音）](https://www.bilibili.com/video/BV1MWtv6QENj/)
